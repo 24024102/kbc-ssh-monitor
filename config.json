@@ -1,0 +1,8 @@
+{
+    "log-file": "auth-log",
+    "attempts_limit": 5,
+    "time_window_second": 60,
+    "telegram_enabled": true,
+    "bot-token": "8456994975:AAHQBRhaBbN21NjfyNJVioyVD6eljFKKkpU",
+    "chat-id": "1266255637"
+}

@@ -1,0 +1,6 @@
+Feb 21 21:00:00 server sshd[1234]: Failed password for root from 192.168.1.53 port 54321 ssh2
+Feb 21 21:00:00 server sshd[1234]: Failed password for root from 192.168.2.45 port 54321 ssh2
+Feb 21 21:00:00 server sshd[1234]: Failed password for root from 192.168.1.12 port 54321 ssh2
+Feb 21 21:00:00 server sshd[1234]: Failed password for root from 192.168.3.32 port 54321 ssh2
+Feb 21 21:00:00 server sshd[1234]: Failed password for root from 192.168.1.51 port 54321 ssh2
+Feb 21 21:00:00 server sshd[1234]: Failed password for root from 192.168.1.52 port 54321 ssh2
